@@ -1,0 +1,90 @@
+[
+  {
+    "id": "amazon-s24",
+    "canonicalProductId": "samsung-galaxy-s24-8gb-128gb-black",
+    "platform": "Amazon India",
+    "product": "Samsung Galaxy S24 5G",
+    "variant": "8 GB RAM, 128 GB, Black",
+    "price": 62999,
+    "mrp": 74999,
+    "inStock": true,
+    "url": "https://www.amazon.in/"
+  },
+  {
+    "id": "flipkart-s24",
+    "canonicalProductId": "samsung-galaxy-s24-8gb-128gb-black",
+    "platform": "Flipkart",
+    "product": "Samsung Galaxy S24 5G",
+    "variant": "8 GB RAM, 128 GB, Black",
+    "price": 61999,
+    "mrp": 74999,
+    "inStock": true,
+    "url": "https://www.flipkart.com/"
+  },
+  {
+    "id": "croma-s24",
+    "canonicalProductId": "samsung-galaxy-s24-8gb-128gb-black",
+    "platform": "Croma",
+    "product": "Samsung Galaxy S24 5G",
+    "variant": "8 GB RAM, 128 GB, Black",
+    "price": 64999,
+    "mrp": 74999,
+    "inStock": true,
+    "url": "https://www.croma.com/"
+  },
+  {
+    "id": "reliance-s24",
+    "canonicalProductId": "samsung-galaxy-s24-8gb-128gb-black",
+    "platform": "Reliance Digital",
+    "product": "Samsung Galaxy S24 5G",
+    "variant": "8 GB RAM, 128 GB, Black",
+    "price": 63999,
+    "mrp": 74999,
+    "inStock": true,
+    "url": "https://www.reliancedigital.in/"
+  },
+  {
+    "id": "amazon-oneplus-13r",
+    "canonicalProductId": "oneplus-13r-12gb-256gb-blue",
+    "platform": "Amazon India",
+    "product": "OnePlus 13R 5G",
+    "variant": "12 GB RAM, 256 GB, Blue",
+    "price": 42999,
+    "mrp": 44999,
+    "inStock": true,
+    "url": "https://www.amazon.in/"
+  },
+  {
+    "id": "flipkart-oneplus-13r",
+    "canonicalProductId": "oneplus-13r-12gb-256gb-blue",
+    "platform": "Flipkart",
+    "product": "OnePlus 13R 5G",
+    "variant": "12 GB RAM, 256 GB, Blue",
+    "price": 41999,
+    "mrp": 44999,
+    "inStock": true,
+    "url": "https://www.flipkart.com/"
+  },
+  {
+    "id": "croma-oneplus-13r",
+    "canonicalProductId": "oneplus-13r-12gb-256gb-blue",
+    "platform": "Croma",
+    "product": "OnePlus 13R 5G",
+    "variant": "12 GB RAM, 256 GB, Blue",
+    "price": 43999,
+    "mrp": 44999,
+    "inStock": true,
+    "url": "https://www.croma.com/"
+  },
+  {
+    "id": "reliance-oneplus-13r",
+    "canonicalProductId": "oneplus-13r-12gb-256gb-blue",
+    "platform": "Reliance Digital",
+    "product": "OnePlus 13R 5G",
+    "variant": "12 GB RAM, 256 GB, Blue",
+    "price": 43499,
+    "mrp": 44999,
+    "inStock": true,
+    "url": "https://www.reliancedigital.in/"
+  }
+]
